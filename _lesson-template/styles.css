@@ -1,0 +1,33 @@
+body {
+  background-color: aliceblue;
+}
+.self-intro {
+  border-left: solid 20px lightblue;
+  margin-left: 50px;
+  padding-left: 30px;
+}
+h1 {
+  color: blue;
+  font-family: 'Long Cang', cursive;
+  font-size: xxx-large;
+}
+.profile-hobby {
+  background-color: white;
+  width: 50%;
+  border-radius: 10px;
+}
+.profile-pic:hover {
+  transform: rotate(5deg);
+}
+img {
+  width: 300px;
+  height: auto;
+}
+.profile-favorite_container {
+  display: flex;
+  flex-direction: row;
+}
+.profile-favorite {
+  width: 200px;
+  height: auto;
+}
