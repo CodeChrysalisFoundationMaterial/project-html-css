@@ -2,7 +2,7 @@ body {
   background-color: aliceblue;
 }
 .self-intro {
-  border-left: solid 20px lightblue;
+  border-left: solid 20px lightskyblue;
   margin-left: 50px;
   padding-left: 30px;
 }
@@ -11,9 +11,12 @@ h1 {
   font-family: 'Long Cang', cursive;
   font-size: xxx-large;
 }
+h2{
+  color:lightslategray
+}
 .profile-hobby {
   background-color: white;
-  width: 50%;
+  width: 40%;
   border-radius: 10px;
 }
 .profile-pic:hover {
@@ -31,3 +34,4 @@ img {
   width: 200px;
   height: auto;
 }
+
