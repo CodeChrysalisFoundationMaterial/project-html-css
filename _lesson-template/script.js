@@ -3,6 +3,8 @@
 
 console.log("Welcome to Foundations!");
 
+//私の自己紹介　https://codepen.io/mikuSan/pen/Vwpadom
+
 //　演習手順
 // _lesson-templates フォルダをコピーする
 
