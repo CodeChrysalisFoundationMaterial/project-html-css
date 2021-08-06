@@ -3,13 +3,36 @@
 
 console.log("Welcome to Foundations!");
 
-//私の自己紹介　https://codepen.io/mikuSan/pen/Vwpadom
+/*
+レビュー
+１．HTMLとはウェブページの内容を記載する
 
-//　演習手順
-// _lesson-templates フォルダをコピーする
+２．CSSとはウェブページを装飾する。
 
-// コピーしたフォルダをhtml-css-homework という名前に変更する。
+３．HTMLの中でCSS, JSを組み合わせる。
+*/
 
-// フォルダ html-css-homeworkの中に　styles.cssという名前のファイル（フォルダじゃないよ）を作る
 
-//　cssファイルを indx.htmlにリンクさせる。monarchのリンクを参考にしてね。『どこ』にファイルを配置するかも考えよう！
+/*
+　演習手順
+
+_lesson-templates フォルダをコピーする
+
+コピーしたフォルダをhtml-css-homework という名前に変更する。
+
+フォルダ html-css-homeworkの中に　styles.cssという名前のファイル（フォルダじゃないよ）を作る
+
+cssファイルを indx.htmlにリンクさせる。monarchのリンクを参考にしてね。『どこ』にファイルを配置するかも考えよう！
+
+https://imgbb.com/
+
+https://codepen.io/
+
+
+//私の自己紹介　https://codepen.io/mikuSan/pen/YzXEOWj
+
+おすすめサイト
+https://saruwakakun.com/html-css/basic/html
+https://saruwakakun.com/html-css/basic/css
+
+*/
