@@ -16,6 +16,9 @@ console.log("Welcome to Foundations!");
 /*
 　演習手順
 
+この演習には期限があります。5 週間コース: 第 3 週の土曜日までに提出してください。
+今日のこの時間は、まず手を動かしてページを作り始めることをお勧めします。
+
 _lesson-templates フォルダをコピーする
 
 コピーしたフォルダをhtml-css-homework という名前に変更する。
@@ -24,8 +27,10 @@ _lesson-templates フォルダをコピーする
 
 cssファイルを indx.htmlにリンクさせる。monarchのリンクを参考にしてね。『どこ』にファイルを配置するかも考えよう！
 
+写真のアップロードに使えるサイトです。
 https://imgbb.com/
 
+実際に作成したウェブページを投稿してもらうサイトです。
 https://codepen.io/
 
 
