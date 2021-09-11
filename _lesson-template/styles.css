@@ -34,3 +34,10 @@ body {
 .simpleIcon{
   width:50px;
 }
+
+button{
+  margin-top: 30px;
+  margin-bottom: 10px;
+  width:100px;
+  height: auto;
+}

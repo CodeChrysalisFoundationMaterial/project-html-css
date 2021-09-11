@@ -17,7 +17,7 @@ console.log("Welcome to Foundations!");
 　演習手順
 
 この演習には期限があります。5 週間コース: 第 3 週の土曜日までに提出してください。
-今日のこの時間は、まず手を動かしてページを作り始めることをお勧めします。
+学習の素材が提供されていますが、今日のこの時間はまず手を動かしてページを作り始めることをお勧めします。
 
 _lesson-templates フォルダをコピーする
 
@@ -25,12 +25,12 @@ _lesson-templates フォルダをコピーする
 
 フォルダ html-css-homeworkの中に　styles.cssという名前のファイル（フォルダじゃないよ）を作る
 
-cssファイルを indx.htmlにリンクさせる。monarchのリンクを参考にしてね。『どこ』にファイルを配置するかも考えよう！
+cssファイルを indx.htmlにリンクさせる。monarchのリンクを参考にしてください。
 
-写真のアップロードに使えるサイトです。
+写真のアップロードに使えるサイトです。写真の管理に便利なので活用してください。
 https://imgbb.com/
 
-実際に作成したウェブページを投稿してもらうサイトです。
+実際に作成したウェブページを投稿してもらうサイトです。これを使うとURLで簡単にページを共有できます。
 https://codepen.io/
 
 
@@ -41,3 +41,8 @@ https://saruwakakun.com/html-css/basic/html
 https://saruwakakun.com/html-css/basic/css
 
 */
+
+const button = document.getElementsByTagName("button"); 
+console.log("button", button); 
+
+button[0].addEventListener("click", ()=>{window.alert("Hello everyone!")}); 
