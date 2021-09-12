@@ -56,4 +56,4 @@ https://aprico-media.com/posts/4300
 const button = document.getElementsByTagName("button"); 
 console.log("button", button); 
 
-button[0].addEventListener("click", ()=>{window.alert("Hello everyone! I'm Miku!!")}); 
+button[0].addEventListener("click", ()=>{window.alert("Hello everyone! I'm Miku!!🌈🌈🌈")}); 
