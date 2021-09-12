@@ -1,5 +1,6 @@
 ## Hello everyone! I'm Miku!! 
-This is my website for self introduction. 
+
+![selfIntro](https://user-images.githubusercontent.com/58237700/132986853-eede38c0-26c6-45b6-a83f-dff4b521595b.gif)
 
 #### Referrenced materials 
 
