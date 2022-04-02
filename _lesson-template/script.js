@@ -5,11 +5,11 @@ console.log("Welcome to Foundations!");
 
 /*
 レビュー
-１．HTMLとはウェブページの内容を記載する
+１．HTMLとはウェブページの内容(コンテンツ)を記載する
 
-２．CSSとはウェブページを装飾する。
+２．CSSとはウェブページの見た目を整える。
 
-３．HTMLの中でCSS, JSを組み合わせる。
+３．HTMLの中にCSS, JSをインポートする。
 */
 
 
